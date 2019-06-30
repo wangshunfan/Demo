@@ -8,6 +8,7 @@ namespace ConsoleApp1
     {
         public string _Name;   
 
-        
+
     }
 }
+ 
